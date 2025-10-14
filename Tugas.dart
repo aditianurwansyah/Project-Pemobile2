@@ -67,7 +67,7 @@ Future<void> line() async {
   return await Future.delayed(
     Duration(seconds: 3),
     () => (print(
-      'Solid solid solid welll ngabeledak lah pokok n mah', 
+      'Harus tetap solid walaupun ada yang menghadang dimanapun dia berada',  
     )),
   );
 }
