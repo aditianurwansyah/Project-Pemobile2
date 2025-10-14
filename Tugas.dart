@@ -67,7 +67,7 @@ Future<void> line() async {
   return await Future.delayed(
     Duration(seconds: 3),
     () => (print(
-      'Jika saya masih hidup perbanyaklah masalah yang dapat berguna bagi orang lain',
+      'Solid solid solid welll ngabeledak lah pokok n mah', 
     )),
   );
 }
